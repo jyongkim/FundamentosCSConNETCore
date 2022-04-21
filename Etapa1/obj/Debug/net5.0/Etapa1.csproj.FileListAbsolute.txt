@@ -1,0 +1,16 @@
+C:\Users\jonathan.kim\Desktop\Proyectos\FundamentosCSConNETCore\Etapa1\bin\Debug\net5.0\Etapa1.exe
+C:\Users\jonathan.kim\Desktop\Proyectos\FundamentosCSConNETCore\Etapa1\bin\Debug\net5.0\Etapa1.deps.json
+C:\Users\jonathan.kim\Desktop\Proyectos\FundamentosCSConNETCore\Etapa1\bin\Debug\net5.0\Etapa1.runtimeconfig.json
+C:\Users\jonathan.kim\Desktop\Proyectos\FundamentosCSConNETCore\Etapa1\bin\Debug\net5.0\Etapa1.runtimeconfig.dev.json
+C:\Users\jonathan.kim\Desktop\Proyectos\FundamentosCSConNETCore\Etapa1\bin\Debug\net5.0\Etapa1.dll
+C:\Users\jonathan.kim\Desktop\Proyectos\FundamentosCSConNETCore\Etapa1\bin\Debug\net5.0\ref\Etapa1.dll
+C:\Users\jonathan.kim\Desktop\Proyectos\FundamentosCSConNETCore\Etapa1\bin\Debug\net5.0\Etapa1.pdb
+C:\Users\jonathan.kim\Desktop\Proyectos\FundamentosCSConNETCore\Etapa1\obj\Debug\net5.0\Etapa1.csproj.AssemblyReference.cache
+C:\Users\jonathan.kim\Desktop\Proyectos\FundamentosCSConNETCore\Etapa1\obj\Debug\net5.0\Etapa1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonathan.kim\Desktop\Proyectos\FundamentosCSConNETCore\Etapa1\obj\Debug\net5.0\Etapa1.AssemblyInfoInputs.cache
+C:\Users\jonathan.kim\Desktop\Proyectos\FundamentosCSConNETCore\Etapa1\obj\Debug\net5.0\Etapa1.AssemblyInfo.cs
+C:\Users\jonathan.kim\Desktop\Proyectos\FundamentosCSConNETCore\Etapa1\obj\Debug\net5.0\Etapa1.csproj.CoreCompileInputs.cache
+C:\Users\jonathan.kim\Desktop\Proyectos\FundamentosCSConNETCore\Etapa1\obj\Debug\net5.0\Etapa1.dll
+C:\Users\jonathan.kim\Desktop\Proyectos\FundamentosCSConNETCore\Etapa1\obj\Debug\net5.0\ref\Etapa1.dll
+C:\Users\jonathan.kim\Desktop\Proyectos\FundamentosCSConNETCore\Etapa1\obj\Debug\net5.0\Etapa1.pdb
+C:\Users\jonathan.kim\Desktop\Proyectos\FundamentosCSConNETCore\Etapa1\obj\Debug\net5.0\Etapa1.genruntimeconfig.cache
