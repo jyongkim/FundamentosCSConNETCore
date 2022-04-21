@@ -1,0 +1,16 @@
+C:\Users\jonathan.kim\Desktop\Proyectos\FundamentosCSConNETCore\platziHelloWorld\bin\Debug\net5.0\platziHelloWorld.exe
+C:\Users\jonathan.kim\Desktop\Proyectos\FundamentosCSConNETCore\platziHelloWorld\bin\Debug\net5.0\platziHelloWorld.deps.json
+C:\Users\jonathan.kim\Desktop\Proyectos\FundamentosCSConNETCore\platziHelloWorld\bin\Debug\net5.0\platziHelloWorld.runtimeconfig.json
+C:\Users\jonathan.kim\Desktop\Proyectos\FundamentosCSConNETCore\platziHelloWorld\bin\Debug\net5.0\platziHelloWorld.runtimeconfig.dev.json
+C:\Users\jonathan.kim\Desktop\Proyectos\FundamentosCSConNETCore\platziHelloWorld\bin\Debug\net5.0\platziHelloWorld.dll
+C:\Users\jonathan.kim\Desktop\Proyectos\FundamentosCSConNETCore\platziHelloWorld\bin\Debug\net5.0\ref\platziHelloWorld.dll
+C:\Users\jonathan.kim\Desktop\Proyectos\FundamentosCSConNETCore\platziHelloWorld\bin\Debug\net5.0\platziHelloWorld.pdb
+C:\Users\jonathan.kim\Desktop\Proyectos\FundamentosCSConNETCore\platziHelloWorld\obj\Debug\net5.0\platziHelloWorld.csproj.AssemblyReference.cache
+C:\Users\jonathan.kim\Desktop\Proyectos\FundamentosCSConNETCore\platziHelloWorld\obj\Debug\net5.0\platziHelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonathan.kim\Desktop\Proyectos\FundamentosCSConNETCore\platziHelloWorld\obj\Debug\net5.0\platziHelloWorld.AssemblyInfoInputs.cache
+C:\Users\jonathan.kim\Desktop\Proyectos\FundamentosCSConNETCore\platziHelloWorld\obj\Debug\net5.0\platziHelloWorld.AssemblyInfo.cs
+C:\Users\jonathan.kim\Desktop\Proyectos\FundamentosCSConNETCore\platziHelloWorld\obj\Debug\net5.0\platziHelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\jonathan.kim\Desktop\Proyectos\FundamentosCSConNETCore\platziHelloWorld\obj\Debug\net5.0\platziHelloWorld.dll
+C:\Users\jonathan.kim\Desktop\Proyectos\FundamentosCSConNETCore\platziHelloWorld\obj\Debug\net5.0\ref\platziHelloWorld.dll
+C:\Users\jonathan.kim\Desktop\Proyectos\FundamentosCSConNETCore\platziHelloWorld\obj\Debug\net5.0\platziHelloWorld.pdb
+C:\Users\jonathan.kim\Desktop\Proyectos\FundamentosCSConNETCore\platziHelloWorld\obj\Debug\net5.0\platziHelloWorld.genruntimeconfig.cache

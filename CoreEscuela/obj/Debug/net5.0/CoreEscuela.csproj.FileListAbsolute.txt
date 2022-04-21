@@ -1,0 +1,16 @@
+C:\Users\jonathan.kim\Desktop\Proyectos\FundamentosCSConNETCore\CoreEscuela\bin\Debug\net5.0\CoreEscuela.exe
+C:\Users\jonathan.kim\Desktop\Proyectos\FundamentosCSConNETCore\CoreEscuela\bin\Debug\net5.0\CoreEscuela.deps.json
+C:\Users\jonathan.kim\Desktop\Proyectos\FundamentosCSConNETCore\CoreEscuela\bin\Debug\net5.0\CoreEscuela.runtimeconfig.json
+C:\Users\jonathan.kim\Desktop\Proyectos\FundamentosCSConNETCore\CoreEscuela\bin\Debug\net5.0\CoreEscuela.runtimeconfig.dev.json
+C:\Users\jonathan.kim\Desktop\Proyectos\FundamentosCSConNETCore\CoreEscuela\bin\Debug\net5.0\CoreEscuela.dll
+C:\Users\jonathan.kim\Desktop\Proyectos\FundamentosCSConNETCore\CoreEscuela\bin\Debug\net5.0\ref\CoreEscuela.dll
+C:\Users\jonathan.kim\Desktop\Proyectos\FundamentosCSConNETCore\CoreEscuela\bin\Debug\net5.0\CoreEscuela.pdb
+C:\Users\jonathan.kim\Desktop\Proyectos\FundamentosCSConNETCore\CoreEscuela\obj\Debug\net5.0\CoreEscuela.csproj.AssemblyReference.cache
+C:\Users\jonathan.kim\Desktop\Proyectos\FundamentosCSConNETCore\CoreEscuela\obj\Debug\net5.0\CoreEscuela.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonathan.kim\Desktop\Proyectos\FundamentosCSConNETCore\CoreEscuela\obj\Debug\net5.0\CoreEscuela.AssemblyInfoInputs.cache
+C:\Users\jonathan.kim\Desktop\Proyectos\FundamentosCSConNETCore\CoreEscuela\obj\Debug\net5.0\CoreEscuela.AssemblyInfo.cs
+C:\Users\jonathan.kim\Desktop\Proyectos\FundamentosCSConNETCore\CoreEscuela\obj\Debug\net5.0\CoreEscuela.csproj.CoreCompileInputs.cache
+C:\Users\jonathan.kim\Desktop\Proyectos\FundamentosCSConNETCore\CoreEscuela\obj\Debug\net5.0\CoreEscuela.dll
+C:\Users\jonathan.kim\Desktop\Proyectos\FundamentosCSConNETCore\CoreEscuela\obj\Debug\net5.0\ref\CoreEscuela.dll
+C:\Users\jonathan.kim\Desktop\Proyectos\FundamentosCSConNETCore\CoreEscuela\obj\Debug\net5.0\CoreEscuela.pdb
+C:\Users\jonathan.kim\Desktop\Proyectos\FundamentosCSConNETCore\CoreEscuela\obj\Debug\net5.0\CoreEscuela.genruntimeconfig.cache
