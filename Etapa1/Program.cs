@@ -1,5 +1,6 @@
 ﻿using System;
 using CoreEscuela.Entidades;
+using static System.Console;
 
 namespace Etapa2
 {
@@ -9,36 +10,29 @@ namespace Etapa2
         {
             var escuela = new Escuela("Platzi Academy", 2012, TiposEscuela.Primaria,
             ciudad: "Bogotá", pais: "Colombia");
-            escuela.Pais = "Colombia";
-            escuela.Ciudad = "Bogotá";
 
-            var arregloCursos = new Curso[3];
-
-            arregloCursos[0] = new Curso() { Nombre = "101" };
-
-            var curso2 = new Curso()
-            {
-                Nombre = "201",
-
+            escuela.Cursos = new Curso[]{
+                new Curso() { Nombre = "101" },
+                new Curso() { Nombre = "201" },
+                new Curso() { Nombre = "301" }
             };
-            arregloCursos[1] = curso2;
+            ImprimirCursosEscuela(escuela);
 
-            arregloCursos[2] = new Curso
+        }
+
+        private static void ImprimirCursosEscuela(Escuela escuela)
+        {
+            WriteLine("====================");
+            WriteLine("Cursos de la escuela");
+            WriteLine("====================");
+
+            if (escuela?.Cursos != null)
             {
-                Nombre = "301",
-
-            };
-
-            Console.WriteLine(escuela);
-            System.Console.WriteLine("=============================");
-            ImprimirCursosWhile(arregloCursos);
-            System.Console.WriteLine("=============================");
-            ImprimirCursosDoWhile(arregloCursos);
-            System.Console.WriteLine("=============================");
-            ImprimirCursosFor(arregloCursos);
-            System.Console.WriteLine("=============================");
-            ImprimirCursosForEach(arregloCursos);
-
+                foreach (var curso in escuela.Cursos)
+                {
+                    WriteLine($"Nombre: {curso.Nombre}, ID: {curso.UniqueID}");
+                }
+            }
         }
         private static void ImprimirCursosWhile(Curso[] arregloCursos)
         {
