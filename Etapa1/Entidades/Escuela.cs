@@ -31,7 +31,7 @@ namespace CoreEscuela.Entidades
 
         public override string ToString()
         {
-            return $"Nombre: \"{Nombre}\", Tipo: {TipoEscuela} {System.Environment.NewLine} País: {Pais}, Ciudad:{Ciudad}";
+            return $"Nombre: \"{Nombre}\", Tipo: {TipoEscuela} {System.Environment.NewLine} País: {Pais}, Ciudad: {Ciudad}";
         }
     }
 }

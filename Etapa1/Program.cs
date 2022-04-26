@@ -14,9 +14,9 @@ namespace Etapa1
                         );
 
             escuela.Cursos = new List<Curso>(){
-                        new Curso() {Nombre = "101", Jornada = TiposJornada.Mañana},
+                        new Curso(){ Nombre = "101", Jornada = TiposJornada.Mañana },
                         new Curso() {Nombre = "201", Jornada = TiposJornada.Mañana},
-                        new Curso() {Nombre = "301", Jornada = TiposJornada.Mañana}
+                        new Curso{Nombre = "301", Jornada = TiposJornada.Mañana}
             };
 
             escuela.Cursos.Add(new Curso { Nombre = "102", Jornada = TiposJornada.Tarde });
@@ -28,7 +28,7 @@ namespace Etapa1
                         new Curso{Nombre = "501", Jornada = TiposJornada.Tarde}
             };
 
-            /*escuela.Cursos.AddRange(otrColeccion);
+            escuela.Cursos.AddRange(otrColeccion);
             ImpimirCursosEscuela(escuela);
 
             escuela.Cursos.RemoveAll(delegate (Curso cur)
@@ -36,8 +36,8 @@ namespace Etapa1
                                         return cur.Nombre == "301";
                                     });
 
-            escuela.Cursos.RemoveAll((cur)=> cur.Nombre == "501" && cur.Jornada == TiposJornada.Mañana );
-            */
+            escuela.Cursos.RemoveAll((cur) => cur.Nombre == "501" && cur.Jornada == TiposJornada.Mañana);
+
             WriteLine("==================");
             ImpimirCursosEscuela(escuela);
 
