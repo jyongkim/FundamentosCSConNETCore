@@ -2,36 +2,34 @@ using System.Collections.Generic;
 
 namespace CoreEscuela.Entidades
 {
-    class Escuela
+    public class Escuela
     {
-        string nombre;
-        public string Nombre
-        {
-            get { return "Copia:" + nombre; }
-            set { nombre = value.ToUpper(); }
-        }
-        public int AñoDeCreación { get; set; }
-
+        public string Nombre { get; set; }
+        public int AñoDeCreacion { get; set; }
         public string Pais { get; set; }
         public string Ciudad { get; set; }
         public TiposEscuela TipoEscuela { get; set; }
+
         public List<Curso> Cursos { get; set; }
-
-        public Escuela(string nombre, int año) => (Nombre, AñoDeCreación) = (nombre, año);
-
-        public Escuela(string nombre, int año,
-                       TiposEscuela tipo,
-                       string pais = "", string ciudad = "")
-        {
-            (Nombre, AñoDeCreación) = (nombre, año);
-            Pais = pais;
-            Ciudad = ciudad;
-        }
-
 
         public override string ToString()
         {
-            return $"Nombre: \"{Nombre}\", Tipo: {TipoEscuela} {System.Environment.NewLine} País: {Pais}, Ciudad: {Ciudad}";
+            return $"Info de la escuela:\nNombre: {Nombre}, Tipo: {TipoEscuela} \n" +
+            $"Pais: {Pais}, Ciudad: {Ciudad}";
         }
+
+          public Escuela(string nombre, string pais, string ciudad, TiposEscuela tipoEscuela)
+        {
+            this.Nombre = nombre;
+            this.Pais = pais;
+            this.Ciudad = ciudad;
+            this.TipoEscuela = tipoEscuela;
+
+        }
+
+        public Escuela(string nombre, int añoDeCreacion) =>
+                (Nombre, AñoDeCreacion) = (nombre, añoDeCreacion);
+
+
     }
 }
